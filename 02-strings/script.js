@@ -3,12 +3,22 @@
 // Stampa il valore di nome nella console.
 
 const name = "Mattia";
+
 console.log (name);
 
 // 2. Tipi primitivi
 // Crea tre variabili chiamate number, text e bool e assegna rispettivamente
 // un numero, una stringa e un valore booleano.
 // Stampa tutti i valori nella console.
+
+const number = 28;
+const text = "non so che scriverci";
+const bool = true;
+
+console.log (number);
+console.log (text);
+console.log (bool);
+console.log (number, text, bool);
 
 // 3. Sostituisci null nelle righe sottostanti utilizzando operazioni con le stringhe
 // e le variabili sopra in modo da stampare correttamente 
